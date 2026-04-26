@@ -1,0 +1,13 @@
+                                        🔗 ACESSO AO PROJETO
+-------------------------------------------------------------------------------------------------------
+Este projeto conta com um Agente de Automação de Emails integrado ao n8n,responsável por enviar 
+mensagens automaticamente a partir das informações fornecidas pelo usuário.
+-------------------------------------------------------------------------------------------------------
+                                      🤖💬 AGENTE DE ENVIO DE EMAIL
+-------------------------------------------------------------------------------------------------------
+Para utilizar o agente, basta acessar o link abaixo e informar os dados necessários,
+como destinatário, assunto e assinatura. O sistema processa essas informações
+e realiza o envio do email de forma automática via n8n:
+
+👉 https://bren11.app.n8n.cloud/webhook/dd90bf37-24b9-4709-88be-b2c20fd11341/chat
+-------------------------------------------------------------------------------------------------------
