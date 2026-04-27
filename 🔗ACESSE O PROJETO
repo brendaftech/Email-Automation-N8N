@@ -10,4 +10,5 @@ como destinatário, assunto e assinatura. O sistema processa essas informações
 e realiza o envio do email de forma automática via n8n:
 
 👉 https://bren11.app.n8n.cloud/webhook/dd90bf37-24b9-4709-88be-b2c20fd11341/chat
+Caso ocorra algum erro: tente novamente no dia seguinte.
 -------------------------------------------------------------------------------------------------------
